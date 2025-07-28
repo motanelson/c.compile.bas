@@ -14,3 +14,4 @@ https://godbolt.org/noscript/wasm
  
 https://webassembly.github.io/spec/core/binary/instructions.html
 
+https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Understanding_the_text_format
