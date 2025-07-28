@@ -9,4 +9,6 @@ https://godbolt.org/noscript/wasm
  https://pengowray.github.io/wasm-ops/
 
 
+ https://chromium.googlesource.com/v8/v8/+/refs/heads/main/src/wasm/wasm-opcodes.h
+
  
