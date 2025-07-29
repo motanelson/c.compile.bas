@@ -172,6 +172,22 @@ I64SConvertI32, 0xac
 I64UConvertI32, 0xad
 I64SConvertF32, 0xae
 I64UConvertF32, 0xaf
+I64SConvertF64, 0xb0
+I64UConvertF64, 0xb1
+F32SConvertI32, 0xb2
+F32UConvertI32, 0xb3
+F32SConvertI64, 0xb4
+F32UConvertI64, 0xb5
+F32ConvertF64, 0xb6
+F64SConvertI32, 0xb7
+F64UConvertI32, 0xb8
+F64SConvertI64, 0xb9
+F64UConvertI64, 0xba
+F64ConvertF32, 0xbb
+I32ReinterpretF32, 0xbc
+I64ReinterpretF64, 0xbd
+F32ReinterpretI32, 0xbe
+F64ReinterpretI64, 0xbf
 
 
 RefNull,0xd0
