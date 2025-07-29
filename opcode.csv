@@ -373,6 +373,39 @@ I16x8ExtMulLowI8x16S,0xfd9c
 I16x8ExtMulHighI8x16S,0xfd9d
 I16x8ExtMulLowI8x16U,0xfd9e
 I16x8ExtMulHighI8x16U,0xfd9f
+I32x4Abs,0xfda0
+I32x4Neg,0xfda1
+I32x4AllTrue,0xfda3
+I32x4BitMask,0xfda4
+I32x4SConvertI16x8Low,0xfda7
+I32x4SConvertI16x8High,0xfda8
+I32x4UConvertI16x8Low,0xfda9
+I32x4UConvertI16x8High,0xfdaa
+I32x4Shl,0xfdab
+I32x4ShrS,0xfdac
+I32x4ShrU,0xfdad
+I32x4Add,0xfdae
+I32x4Sub,0xfdb1
+I32x4Mul,0xfdb5
+I32x4MinS,0xfdb6
+I32x4MinU,0xfdb7
+I32x4MaxS,0xfdb8
+I32x4MaxU,0xfdb9
+I32x4DotI16x8S,0xfdba
+I32x4ExtMulLowI16x8S,0xfdbc
+I32x4ExtMulHighI16x8S,0xfdbd
+I32x4ExtMulLowI16x8U,0xfdbe
+I32x4ExtMulHighI16x8U,0xfdbf
+
+
+
+
+
+
+
+
+
+
 
 
 
