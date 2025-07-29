@@ -420,20 +420,20 @@ I64x2ExtMulLowI32x4S,0xfddc
 I64x2ExtMulHighI32x4S,0xfddd
 I64x2ExtMulLowI32x4U,0xfdde
 I64x2ExtMulHighI32x4U,0xfddf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+F32x4Abs, 0xfde0
+F32x4Neg, 0xfde1
+F32x4Sqrt, 0xfde3
+F32x4Add, 0xfde4
+F32x4Sub, 0xfde5
+F32x4Mul, 0xfde6
+F32x4Div, 0xfde7
+F32x4Min, 0xfde8
+F32x4Max, 0xfde9
+F32x4Pmin, 0xfdea
+F32x4Pmax, 0xfdeb
+F64x2Abs, 0xfdec
+F64x2Neg, 0xfded
+F64x2Sqrt, 0xfdef
 
 
 
