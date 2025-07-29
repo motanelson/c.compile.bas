@@ -50,6 +50,19 @@ I64LoadMem16U,0x33
 I64LoadMem32S,0x34
 I64LoadMem32U,0x35
 F32LoadMemF16,0xfc30
+I32StoreMem, 0x36
+I64StoreMem, 0x37
+F32StoreMem, 0x38
+F64StoreMem, 0x39
+I32StoreMem8, 0x3a
+I32StoreMem16, 0x3b
+I64StoreMem8, 0x3c
+I64StoreMem16, 0x3d
+I64StoreMem32, 0x3e
+F32StoreMemF16, 0xfc31
+MemorySize, 0x3f
+MemoryGrow, 0x40
+
 I32Const,0x41
 I64Const,0x42
 F32Const,0x43
