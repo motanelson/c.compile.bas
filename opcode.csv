@@ -328,13 +328,18 @@ I8x16ShrU,0xfd6d
 I8x16Add,0xfd6e
 I8x16AddSatS,0xfd6f
 I8x16AddSatU,0xfd70
-
-
-
-
-
-
-
-
-
+I8x16Sub, 0xfd71
+I8x16SubSatS, 0xfd72
+I8x16SubSatU, 0xfd73
+F64x2Ceil, 0xfd74
+F64x2Floor, 0xfd75
+I8x16MinS, 0xfd76
+I8x16MinU, 0xfd77
+I8x16MaxS, 0xfd78
+I8x16MaxU, 0xfd79
+F64x2Trunc, 0xfd7a
+I8x16RoundingAverageU, 0xfd7b
+I16x8ExtAddPairwiseI8x16U, 0xfd7d
+I32x4ExtAddPairwiseI16x8S, 0xfd7e
+I32x4ExtAddPairwiseI16x8U, 0xfd7f
 
