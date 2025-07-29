@@ -328,18 +328,63 @@ I8x16ShrU,0xfd6d
 I8x16Add,0xfd6e
 I8x16AddSatS,0xfd6f
 I8x16AddSatU,0xfd70
-I8x16Sub, 0xfd71
-I8x16SubSatS, 0xfd72
-I8x16SubSatU, 0xfd73
-F64x2Ceil, 0xfd74
-F64x2Floor, 0xfd75
-I8x16MinS, 0xfd76
-I8x16MinU, 0xfd77
-I8x16MaxS, 0xfd78
-I8x16MaxU, 0xfd79
-F64x2Trunc, 0xfd7a
-I8x16RoundingAverageU, 0xfd7b
-I16x8ExtAddPairwiseI8x16U, 0xfd7d
-I32x4ExtAddPairwiseI16x8S, 0xfd7e
-I32x4ExtAddPairwiseI16x8U, 0xfd7f
+I8x16Sub,0xfd71
+I8x16SubSatS,0xfd72
+I8x16SubSatU,0xfd73
+F64x2Ceil,0xfd74
+F64x2Floor,0xfd75
+I8x16MinS,0xfd76
+I8x16MinU,0xfd77
+I8x16MaxS,0xfd78
+I8x16MaxU,0xfd79
+F64x2Trunc,0xfd7a
+I8x16RoundingAverageU,0xfd7b
+I16x8ExtAddPairwiseI8x16U,0xfd7d
+I32x4ExtAddPairwiseI16x8S,0xfd7e
+I32x4ExtAddPairwiseI16x8U,0xfd7f
+I16x8Abs,0xfd80
+I16x8Neg,0xfd81
+I16x8Q15MulRSatS,0xfd82
+I16x8AllTrue,0xfd83
+I16x8BitMask,0xfd84
+I16x8SConvertI32x4,0xfd85
+I16x8UConvertI32x4,0xfd86
+I16x8SConvertI8x16Low,0xfd87
+I16x8SConvertI8x16High,0xfd88
+I16x8UConvertI8x16Low,0xfd89
+I16x8UConvertI8x16High,0xfd8a
+I16x8Shl,0xfd8b
+I16x8ShrS,0xfd8c
+I16x8ShrU,0xfd8d
+I16x8Add,0xfd8e
+I16x8AddSatS,0xfd8f
+I16x8AddSatU,0xfd90
+I16x8Sub,0xfd91
+I16x8SubSatS,0xfd92
+I16x8SubSatU,0xfd93
+F64x2NearestInt,0xfd94
+I16x8Mul,0xfd95
+I16x8MinS,0xfd96
+I16x8MinU,0xfd97
+I16x8MaxS,0xfd98
+I16x8MaxU,0xfd99
+I16x8RoundingAverageU,0xfd9b
+I16x8ExtMulLowI8x16S,0xfd9c
+I16x8ExtMulHighI8x16S,0xfd9d
+I16x8ExtMulLowI8x16U,0xfd9e
+I16x8ExtMulHighI8x16U,0xfd9f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
