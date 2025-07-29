@@ -254,6 +254,34 @@ S128Store32Lane,0xfd5a
 S128Store64Lane,0xfd5b
 S128Const,0xfd0c
 I8x16Shuffle,0xfd0d
+I8x16Swizzle, 0xfd0e, s_ss
+I8x16Splat, 0xfd0f
+I16x8Splat, 0xfd10
+I32x4Splat, 0xfd11
+I64x2Splat, 0xfd12
+F32x4Splat, 0xfd13
+F64x2Splat, 0xfd14
+I8x16Eq, 0xfd23
+I8x16Ne, 0xfd24
+I8x16LtS, 0xfd25
+I8x16LtU, 0xfd26
+I8x16GtS, 0xfd27
+I8x16GtU, 0xfd28
+I8x16LeS, 0xfd29
+I8x16LeU, 0xfd2a
+I8x16GeS, 0xfd2b
+I8x16GeU, 0xfd2c
+I16x8Eq, 0xfd2d
+I16x8Ne, 0xfd2e
+I16x8LtS, 0xfd2f
+
+
+
+
+
+
+
+
 
 
 
