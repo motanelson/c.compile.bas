@@ -19,3 +19,4 @@ https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Understanding_the_te
 
 https://anonyco.github.io/WasmFiddlePlusPlus/
 
+https://blog.ttulka.com/learning-webassembly-2-wasm-binary-format/
